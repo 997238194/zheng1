@@ -1,0 +1,24 @@
+.del, .edit{
+    border-radius: 2px;
+    padding: 0.2rem 0.85rem;
+    margin-right: 3px;
+    border: none;
+    line-height: .75rem;
+    float: left;
+    font-size: .75rem;
+    display: block;
+    background-color: #ff5a60;
+    color: #fff;
+}
+.dels, .edit{
+    border-radius: 2px;
+    padding: 0.2rem 0.85rem;
+    margin-right: 3px;
+    border: none;
+    line-height: .75rem;
+    float: left;
+    font-size: .75rem;
+    display: block;
+    background-color: #ff5a60;
+    color: #fff;
+}
